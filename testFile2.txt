@@ -1,4 +1,0 @@
-clear all file
-
-AABB
-c d h
